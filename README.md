@@ -13,10 +13,12 @@ I’m now looking for opportunities to apply these skills to meaningful projects
 ## Skills I Work With  
 
 - **Languages**: Python, C++, Java, SQL, Ruby, Shell/Bash  
-- **Frameworks & Libraries**: ROS, TensorFlow, PyTorch, Scikit-learn, Boost Test  
-- **Databases & Architecture**: MongoDB, MySQL, Client-Server, Socket Programming  
-- **DevOps & Cloud**: Docker, Jenkins, Linux, Git, CI/CD, Azure DevOps  
-- **Testing & Tools**: SIL/HIL Testing, Pytest, REST APIs, PowerBI  
+- **Frameworks & Libraries:** Django, Flask, TensorFlow, PyTorch, Scikit-learn  
+- **Cloud & Infrastructure:** AWS (EC2, ALB/ASG, RDS, Lambda, DynamoDB, Route 53, ACM), Terraform, Packer, Docker, Kubernetes (EKS)  
+- **DevOps & Tooling:** CI/CD (GitHub Actions, Jenkins), Git, Linux, Secrets Manager, KMS, Monitoring (CloudWatch, SNS)  
+- **Databases & Architecture:** MySQL, MongoDB, Time-series architecture, Microservices, RESTful APIs  
+- **Testing & Systems:** SIL/HIL testing, Pytest, REST APIs, Performance profiling, Automation frameworks  
+ 
 
 ---
 
@@ -31,7 +33,12 @@ As an intern, I focused on automation and testing. I automated several workflows
 ---
 
 ## Projects  
+- **[Cloud-Native Web Application (AWS Infra + Serverless Email)](https://github.com/vandanarangaswamyy/Cloud-Native-Web-Application.git)**
 
+  Built a production-grade web service using Django/DRF backend + MySQL, deployed on AWS via Terraform and Packer, leveraging ALB/ASG, ACM-TLS, Route 53, and a serverless email verification flow using Lambda, DynamoDB and SNS.
+  
+  Key outcomes: Infrastructure as Code, auto-scaling, secure networking, end-to-end email workflow, monitoring/alerting.
+  
 - **[EduAid](https://github.com/vandanarangaswamyy/FinalProject)**  
   A Java Swing application with role-based access control, designed to handle student requests across different university services.  
 
